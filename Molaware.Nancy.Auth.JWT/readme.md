@@ -1,5 +1,5 @@
 ﻿
-Authentication by JWT (Json Web Token)
+Nancy Authentication by JWT (Json Web Token)
 
 works by checking the Authorization header:
 	Authorization:<token>
